@@ -1,2 +1,1 @@
-# c-retail-store
-งานส่งครู :)
+# c-retail-store cli
