@@ -5,6 +5,8 @@
 #include <string.h>
 #include <ctype.h>
 
+#include "curser.h"
+
 // Import Utils Functions
 #include "./gotoxy.cpp"
 #include "./highlight.cpp"

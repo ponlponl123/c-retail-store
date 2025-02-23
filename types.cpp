@@ -3,8 +3,8 @@
 #include <string.h>
 #include <windows.h>
 
-#define ANS 15
-#define ACS 4
+#define ANS 15;
+#define ACS 4;
 
 typedef struct
 {

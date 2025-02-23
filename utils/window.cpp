@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <windows.h>
+#include "window.h"
 
 #include "./gotoxy.cpp"
 

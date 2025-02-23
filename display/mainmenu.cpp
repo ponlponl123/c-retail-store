@@ -1,15 +1,15 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <windows.h>
-
-#include "../utils/gotoxy.cpp"
-#include "../utils/window.cpp"
-#include "../utils/curser.cpp"
-
-void d_mainmenu();
+#include "../utils/gotoxy.h"
+#include "../utils/window.h"
+#include "../utils/curser.h"
+#include "mainmenu.h"
+#include <iostream>
 
 void d_mainmenu()
 {
+      std::cout << "Main Menu" << std::endl;
       int i;
       char ch;
       const char *menu[] = {"   Calculate Bill", "   Add Goods", "   Edit Goods", "   Display All ", "   Search", "   Delete Goods", "   Exit"};

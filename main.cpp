@@ -1,6 +1,8 @@
 #include <stdio.h>
 
-#include "./display/mainmenu.cpp"
+#include "./display/mainmenu.h"
+
+using namespace std;
 
 int main()
 {

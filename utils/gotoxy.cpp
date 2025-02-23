@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <windows.h>
+#include "gotoxy.h"
 
 COORD coord = {0, 0};
 
